@@ -20,7 +20,7 @@ const UserSchema = mongoose.Schema(
     pic: {
       type: String,
       default:
-        "https://cdn-icons.flaticon.com/png/512/2202/premium/2202112.png?token=exp=1637138436~hmac=4ba96d9b7b5992f136aa76f445103dca",
+        "https://png.pngtree.com/png-vector/20190114/ourlarge/pngtree-vector-avatar-icon-png-image_313572.jpg",
     },
   },
   {
