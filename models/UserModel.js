@@ -19,6 +19,7 @@ const UserSchema = mongoose.Schema(
     },
     pic: {
       type: String,
+      required: true,
       default:
         "https://png.pngtree.com/png-vector/20190114/ourlarge/pngtree-vector-avatar-icon-png-image_313572.jpg",
     },
